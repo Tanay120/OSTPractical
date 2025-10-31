@@ -1,1 +1,2 @@
 "HI, this is file 1" 
+"Added a new line to file1!" 
